@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(225, 255, 213);
+    background-color: rgb(112, 223, 68);
 }
 
 .table-simple {
@@ -9,7 +9,7 @@ body {
 
 .table-simple th,
 .table-simple td {
-  border: 1px solid #000;
+  border: 1px solid #110c0c;
   padding: 8px;
   text-align: left;
 }
